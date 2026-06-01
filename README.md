@@ -137,3 +137,4 @@ footer{
     padding:20px;
     background:#000;
 }
+banner.jpg
